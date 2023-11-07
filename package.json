@@ -1,4 +1,4 @@
-  {
+{
   "private": true,
   "sideEffects": false,
   "scripts": {
@@ -14,6 +14,8 @@
     "@remix-run/vercel": "^1.16.0",
     "@vercel/node": "^2.10.3",
     "axios": "^1.4.0",
+    "firebase": "^10.5.2",
+    "firebase-admin": "^11.11.0",
     "googleapis": "^118.0.0",
     "isbot": "^3.6.8",
     "react": "^18.2.0",

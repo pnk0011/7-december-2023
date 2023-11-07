@@ -22,7 +22,7 @@ import GalleryPhotos from "~/components/GalleryPhotos";
 export const meta: V2_MetaFunction = () => {
   return [
     {
-      title: "Undangan Pernikahan - Ami & Fauzi",
+      title: "Undangan Pernikahan - Pankaj",
     },
     {
       description:
