@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "app/vercel-build-command", "use": "@now/static-build" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "/app/vercel-build-command/$1" }
+  ]
+}
